@@ -23,7 +23,7 @@ The Oxford Flower Dataset (17 Classes) was used.
 ## Results
 
 ### Performance Metrics
-<img src="https://github.com/chboey/FloralNet/assets/103494565/f9a4ebde-a172-4fbb-8e38-6edd76b033a1" alt="ResNet18" width="850" height="200">
+<img src="https://github.com/chboey/FloralNet/assets/103494565/f9a4ebde-a172-4fbb-8e38-6edd76b033a1" alt="ResNet18" width="750" height="150">
 
 ### Confusion Matrices
  <img src="https://github.com/chboey/FloralNet/assets/103494565/5119eb2b-12f6-412c-bb82-1a82ebefca46" alt="ResNet18" width="270" height="300">
