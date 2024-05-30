@@ -78,8 +78,6 @@ Link to Networks : [Link](https://drive.google.com/file/d/1cxY6ojJGHyVY0A3SjUIdA
   </tr>
 </table>
 
----
-
 ## Conclusion
 - DeepLab v3+ with ResNet50 outperformed other networks.
 - Floral-Net is a strong contender with its lightweight architecture.
