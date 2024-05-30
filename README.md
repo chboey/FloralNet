@@ -39,7 +39,8 @@ The Oxford Flower Dataset (17 Classes) was used.
 | Floral-Net| 2.2%                 | 3.5%                     |
 
 ## Visualizations
-![image](https://github.com/chboey/FloralNet/assets/103494565/d876a24b-069e-4eec-930e-59ac446c4af3)
+<img src="https://github.com/chboey/FloralNet/assets/103494565/d876a24b-069e-4eec-930e-59ac446c4af3" alt="FloralNet Image" width="350" height="350">
+
 
 
 ## Conclusion
