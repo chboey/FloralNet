@@ -10,11 +10,41 @@ tasked with segmenting flowers and backgrounds from the Oxford Flower Dataset.
 The Oxford Flower Dataset (17 Classes) was used.
 
 ## Training Options
-| Option          | Value  |
-|-----------------|--------|
-| InitialLearnRate| 0.001  |
-| MaxEpochs       | 50     |
-| MiniBatchSize   | 4      |
+
+# DeepLabv3+ Initialised with ResNet18/50 weights
+
+| Option                    | Value          |
+|---------------------------|----------------|
+| Optimization Algorithm   | sgdm           |
+| Learning Rate Schedule   | piecewise      |
+| Learning Rate Drop Period| 6              |
+| Learning Rate Drop Factor| 0.1            |
+| Momentum                 | 0.9            |
+| Initial Learning Rate    | 0.01           |
+| L2 Regularization        | 0.005          |
+| Validation Data          | dsVal          |
+| Max Epochs               | 10             |
+| Mini-Batch Size          | 4              |
+| Shuffle                  | every-epoch    |
+| Checkpoint Path          | tempdir        |
+| Verbose Frequency        | 10             |
+| Validation Patience      | 4              |
+
+# Floral-Net
+
+| Option                    | Value          |
+|---------------------------|----------------|
+| Optimization Algorithm   | Adam           |
+| Initial Learning Rate    | 0.001          |
+| Learning Rate Schedule   | Piecewise      |
+| Learning Rate Drop Factor| 0.1            |
+| Learning Rate Drop Period| 10             |
+| L2 Regularization        | 0.0001         |
+| Maximum Epochs           | 10             |
+| Mini-Batch Size          | 16             |
+| Data Shuffling           | Every Epoch    |
+| Validation Data          | dsVal          |
+| Validation Frequency     | 10             |
 
 ## Networks
 - DeepLab v3+: Initialized with ResNet18 and ResNet50.
