@@ -11,7 +11,7 @@ The Oxford Flower Dataset (17 Classes) was used.
 
 ## Training Options
 
-# DeepLabv3+ Initialised with ResNet18/50 weights
+### DeepLabv3+ Initialised with ResNet18/50 weights
 
 | Option                    | Value          |
 |---------------------------|----------------|
@@ -30,7 +30,7 @@ The Oxford Flower Dataset (17 Classes) was used.
 | Verbose Frequency        | 10             |
 | Validation Patience      | 4              |
 
-# Floral-Net
+### Floral-Net
 
 | Option                    | Value          |
 |---------------------------|----------------|
