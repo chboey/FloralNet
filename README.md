@@ -61,7 +61,7 @@ Link to Networks : [Link](https://drive.google.com/file/d/1cxY6ojJGHyVY0A3SjUIdA
 <img src="https://github.com/chboey/FloralNet/assets/103494565/f9a4ebde-a172-4fbb-8e38-6edd76b033a1" alt="ResNet18" width="700" height="150">
 
 ### Confusion Matrices
-<img src="https://github.com/chboey/FloralNet/assets/103494565/5119eb2b-12f6-412c-bb82-1a82ebefca46" alt="ResNet18" width="270" height="300">
+<img src="https://github.com/chboey/FloralNet/assets/103494565/5119eb2b-12f6-412c-bb82-1a82ebefca46" alt="ResNet18" width="370" height="400">
 
 ## Visualizations
 <table>
