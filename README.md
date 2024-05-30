@@ -1,10 +1,13 @@
 # 🌸 Comparative Analysis of Segmentation Performance
 
 ## Overview
+
 This project delves into the applications of deep learning Convolutional Neural Networks (CNNs): DeepLab v3+ and a CNN inspired by U-Net called Floral-Net, 
 tasked with segmenting flowers and backgrounds from the Oxford Flower Dataset.
 
 ## Methodology
+
+This study addresses imbalanced data in the Oxford Flower Dataset by carefully preprocessing images and labels. Using MATLAB, missing labels are removed, resulting in 846 image-label pairs. Transfer learning with DeepLabv3+ using ResNet18 and ResNet50 is employed, alongside a unique Floral-Net architecture inspired by prior works. Floral-Net integrates incremental dropout, selective filter adjustments, and weighted pixel classification to mitigate class imbalance. This comprehensive approach aims to improve semantic segmentation of flower images.
 
 ## Dataset
 The Oxford Flower Dataset (17 Classes) was used.
@@ -75,8 +78,7 @@ Link to Networks : [Link](https://drive.google.com/file/d/1cxY6ojJGHyVY0A3SjUIdA
   </tr>
 </table>
 
-
-
+---
 
 ## Conclusion
 - DeepLab v3+ with ResNet50 outperformed other networks.
