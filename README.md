@@ -39,7 +39,8 @@ The Oxford Flower Dataset (17 Classes) was used.
 | Floral-Net| 2.2%                 | 3.5%                     |
 
 ## Visualizations
-Include visualizations here if available.
+![image](https://github.com/chboey/FloralNet/assets/103494565/d876a24b-069e-4eec-930e-59ac446c4af3)
+
 
 ## Conclusion
 - DeepLab v3+ with ResNet50 outperformed other networks.
