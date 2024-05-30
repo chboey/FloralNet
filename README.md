@@ -26,27 +26,7 @@ The Oxford Flower Dataset (17 Classes) was used.
 <img src="https://github.com/chboey/FloralNet/assets/103494565/f9a4ebde-a172-4fbb-8e38-6edd76b033a1" alt="ResNet18" width="700" height="150">
 
 ### Confusion Matrices
-## Confusion Matrix for DeepLabv3+ Initialized with ResNet 18 weights
-
-| True\Predicted | Background | Flower |
-|----------------|------------|--------|
-| Background     | 99.6%      | 0.4%   |
-| Flower         | 1.6%       | 98.4%  |
-
-## Confusion Matrix for DeepLabv3+ Initialized with ResNet 50 weights
-
-| True\Predicted | Background | Flower |
-|----------------|------------|--------|
-| Background     | 99.6%      | 0.4%   |
-| Flower         | 1.4%       | 98.6%  |
-
-## Confusion Matrix for FloralNet
-
-| True\Predicted | Background | Flower |
-|----------------|------------|--------|
-| Background     | 97.8%      | 2.2%   |
-| Flower         | 3.5%       | 96.5%  |
- <img src="https://github.com/chboey/FloralNet/assets/103494565/5119eb2b-12f6-412c-bb82-1a82ebefca46" alt="ResNet18" width="270" height="300">
+<img src="https://github.com/chboey/FloralNet/assets/103494565/5119eb2b-12f6-412c-bb82-1a82ebefca46" alt="ResNet18" width="270" height="300">
 
 ## Visualizations
 <table>
