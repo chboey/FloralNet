@@ -50,6 +50,8 @@ The Oxford Flower Dataset (17 Classes) was used.
 - DeepLab v3+: Initialized with ResNet18 and ResNet50.
 - Floral-Net: A simplified Encoder-Decoder Network with layers mirroring U-Net
 
+Link to Networks : [Link](https://drive.google.com/file/d/1cxY6ojJGHyVY0A3SjUIdA94DgrClM0qa/view?usp=sharing)
+
 ## Results
 
 ### Performance Metrics
