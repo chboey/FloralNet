@@ -31,12 +31,7 @@ The Oxford Flower Dataset (17 Classes) was used.
 | Floral-Net             | 96.50%   | 92.35%| 81.15%   |
 
 ### Confusion Matrices
-
-| Network   | Flower Misclassified | Background Misclassified |
-|-----------|----------------------|--------------------------|
-| ResNet18  | 1.8%                 | 0.6%                     |
-| ResNet50  | 1.4%                 | 0.4%                     |
-| Floral-Net| 2.2%                 | 3.5%                     |
+![image](https://github.com/chboey/FloralNet/assets/103494565/5119eb2b-12f6-412c-bb82-1a82ebefca46)
 
 ## Visualizations
 <table>
