@@ -84,7 +84,3 @@ The Oxford Flower Dataset (17 Classes) was used.
 - Experiment with more augmentations.
 - Explore other lightweight architectures.
 
-## References
-- S. Saha, et al., "Self-supervised Deep Learning for Flower Image Segmentation," 2020.
-- Y. Wu, et al., "Convolution Neural Network based Transfer Learning for Classification of Flowers," 2018.
-- O. Ronneberger, et al., “U-NET: Convolutional Networks for Biomedical Image Segmentation,” 2015.
