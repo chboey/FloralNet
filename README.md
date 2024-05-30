@@ -42,13 +42,13 @@ The Oxford Flower Dataset (17 Classes) was used.
 <table>
   <tr>
     <td>
-      <img src="https://github.com/chboey/FloralNet/assets/103494565/d876a24b-069e-4eec-930e-59ac446c4af3" alt="ResNet18" width="300" height="250">
+      <img src="https://github.com/chboey/FloralNet/assets/103494565/d876a24b-069e-4eec-930e-59ac446c4af3" alt="ResNet18" width="250" height="200">
     </td>
     <td>
-      <img src="https://github.com/chboey/FloralNet/assets/103494565/924d634c-51bd-48e9-a846-0769df94dd69" alt="ResNet50" width="300" height="250">
+      <img src="https://github.com/chboey/FloralNet/assets/103494565/924d634c-51bd-48e9-a846-0769df94dd69" alt="ResNet50" width="250" height="200">
     </td>
     <td>
-      <img src="https://github.com/chboey/FloralNet/assets/103494565/caf88d1d-c783-4669-a1fe-5edf6ce5836f" alt="Floral-Net" width="300" height="250">
+      <img src="https://github.com/chboey/FloralNet/assets/103494565/caf88d1d-c783-4669-a1fe-5edf6ce5836f" alt="Floral-Net" width="250" height="200">
     </td>
   </tr>
 </table>
